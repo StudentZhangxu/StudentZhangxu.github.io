@@ -1,0 +1,87 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body{background-color:#eee;font-family:微软雅黑;min-width:1078px;margin-bottom:50px;
+box-shadow:0 2px 20px #aaa;max-width:1800px}
+#whole{width:100%;margin:0 auto;background-color:#fff;}
+*{margin:0;padding:0}
+img{border:none}
+
+
+h1{color:#F39;background-color:#9e9;  height: 140px; font-size:2.5em;line-height:350%;text-align:center;letter-spacing:0.2em;background-image:url(img/index/topback.jpg);background-repeat:no-repeat;background-position:16% 50% }
+
+
+#nav{background-color:#6C9;font-size:1.3em;width:100%;}
+#nav ul{list-style-type:none;padding:0.5em 0 ;text-indent:10%}
+#nav a{text-decoration:none;padding:0.5em 2em; color:#fff  ;transition: background-color 1s ease}
+#nav li{display:inline;}
+#nav ul li a:hover{background-color:#376}
+
+#xia{ position: relative;
+    bottom: 24px;
+}
+
+
+#left{margin-left:80px;margin-top:3%}
+#right{float:right;width:28%;margin-right:100px;margin-top:5%}
+#company{background-color:#fcfcfc;color:#333;}
+#com{border-bottom:1px  inset #ddd;background-color:#f8f8f8;padding:0.75em 0 0.75em 3em;background-image:url(img/index/xiaotub2.png) ;background-repeat:no-repeat;background-position:5% center}
+.com1{padding:0.75em 1em}
+.cp{float:left;margin:1em }
+
+#sale{color:#fff}
+#sale a{text-decoration:none;color:#fff;padding:0.3em 0.5em;border-radius:5px;background-color:#6c9}
+#sale a:hover{}
+#dtqx{color:#fff}
+#dtqx a{text-decoration:none;color:#fff;padding:0.3em 0.5em;border-radius:5px;background-color:#6c9}
+
+
+
+
+.com1 p a{text-decoration:none;color:#000}
+.com1 p a:hover{text-decoration:underline;background-color:#fcfcfc}
+
+#com a{text-decoration:none}
+#com a:hover{background-color:#ccc}
+
+#contact p:hover{background-color:#bbb}
+#contact p a{text-decoration:none}
+#contact p a:hover{background-color:#bbb}
+
+#contact:hover{background-color:#eee}
+#com:hover{background-color:#ccc}
+#img1 a:hover img{box-shadow:#aaa 0px 0px 6px,#888 4px 4px 4px;}
+
+
+
+#plant{background-color:#fcfcfc;margin-top:60px; background-image:url(img/index/left_bk.jpg)}
+#plant li{list-style-type:none;line-height:2.5em}
+.plt{padding-bottom:1em;padding-top:1em;}
+#plant li a{text-decoration:none;padding:0.5em 7em 0.5em 1.5em; color:#000;overflow:hidden}
+#plant li a:hover{background-color:#ddd}
+
+#contact{background-color:#fcfcfc;margin-top:60px; background-image:url(img/index/left_bk2.jpg)}
+#contact li{list-style-type:none;padding-left:1.2em;line-height:2.6em;border-bottom:1px solid #ddd}
+.cont{padding-bottom:1em}
+
+.dt{font-size:1.2em;margin-top:0.5em}
+
+
+#foot{clear:both;text-align:center;padding:30px;border-top:1px solid #ccc;top:50px}
+.foot{clear:both;text-align:center;padding:50px;border-top:1px solid #ccc;background-image:url(img/index/bottom.jpg);background-color:#fff;position:relative;top:50px}
+
+
+#img1{float:left;margin-top:20px;margin-right:2%;width:18%;height:20%}
+
+#clear{clear:left}
+
+
+.yiz-page-btn {float: left;width: auto;height: 30px; position: absolute; bottom: 20px; right: 20px; z-index: 99}
+.yiz-page-btn span{opacity: 0.7;height: 30px;width: 30px;background-color: #999;display: block;float: left;line-height: 30px;text-align: center;color: #FFF;margin-right: 10px;cursor:pointer; }
+.yiz-page-btn .current {background-color: #1D5D76;opacity: 1;}
+
+
+.yiz-slider-2 {height:400px;width:100%;position: relative; overflow: hidden}
+.yiz-slider-2 ul {margin: 0px;padding: 0px; float: left;height: auto;list-style-type: none;display: block; position: absolute;top: 0;left: 0; z-index: 98;}
+
+.yiz-slider-2 ul li {height: auto;width: 100%;float: left;padding: 0px;margin: 0px;float:left;}
+.yiz-slider-2 ul li img{ width: 100%;z-index:1;}
