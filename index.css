@@ -2,7 +2,7 @@
 /* CSS Document */
 body{background-color:#eee;font-family:微软雅黑;min-width:1078px;margin-bottom:50px;
 box-shadow:0 2px 20px #aaa;max-width:1800px}
-#whole{width:100%;margin:0 auto;background-color:#fff;}
+#whole{width:90%;margin:auto;background-color:#fff;}
 *{margin:0;padding:0}
 img{border:none}
 
