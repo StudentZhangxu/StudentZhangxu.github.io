@@ -1,7 +1,7 @@
 ﻿@charset "utf-8";
 /* CSS Document */
-body{background-color:#eee;font-family:微软雅黑;min-width:1078px;margin-bottom:50px;
-box-shadow:0 2px 20px #aaa;max-width:1800px}
+body{background-color:#eee;font-family:微软雅黑;min-width:1300px;margin-bottom:50px;
+box-shadow:0 2px 20px #aaa;width:87%; max-width:1800px}
 #whole{width:100%;margin:auto;background-color:#fff;}
 *{margin:auto;padding:0}
 img{border:none}
@@ -56,7 +56,7 @@ h1{color:#F39;background-color:#9e9;  height: 140px; font-size:2.5em;line-height
 #plant{background-color:#fcfcfc;margin-top:60px; background-image:url(img/index/left_bk.jpg)}
 #plant li{list-style-type:none;line-height:2.5em}
 .plt{padding-bottom:1em;padding-top:1em;}
-#plant li a{text-decoration:none;padding:0.5em 7em 0.5em 1.5em; color:#000;overflow:hidden}
+#plant li a{text-decoration:none;padding:0.5em 5em 0.5em 1.5em; color:#000;overflow:hidden}
 #plant li a:hover{background-color:#ddd}
 
 #contact{background-color:#fcfcfc;margin-top:60px; background-image:url(img/index/left_bk2.jpg)}
@@ -66,7 +66,7 @@ h1{color:#F39;background-color:#9e9;  height: 140px; font-size:2.5em;line-height
 .dt{font-size:1.2em;margin-top:0.5em}
 
 
-#foot{clear:both;text-align:center;padding:30px;border-top:1px solid #ccc;top:50px}
+#foot{clear:both;text-align:center; line-height:2em;padding:30px;top:50px}
 .foot{clear:both;text-align:center;padding:50px;border-top:1px solid #ccc;background-image:url(img/index/bottom.jpg);background-color:#fff;position:relative;top:50px}
 
 

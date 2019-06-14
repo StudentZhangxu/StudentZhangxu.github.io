@@ -1,9 +1,9 @@
 ﻿@charset "utf-8";
 /* CSS Document */
-body{background-color:#eee;font-family:微软雅黑;min-width:1078px;margin-bottom:50px;
-    box-shadow:0 2px 20px #aaa;max-width:1800px}
-#whole{width:100%;margin:0 auto;   background-color: #FFFFFF}
-*{margin:0;padding:0}
+body{background-color:#eee;font-family:微软雅黑;min-width:1300px;margin-bottom:50px;
+box-shadow:0 2px 20px #aaa;width:87%; max-width:1800px}
+#whole{width:100%;margin:auto;background-color:#fff;}
+*{margin:auto;padding:0}
 img{border:none}
 
 
@@ -21,7 +21,7 @@ h1{color:#F39;background-color:#9e9;  height: 140px; font-size:2.5em;line-height
 
 #left{margin-left:100px;margin-top:3%;width:52%; }
 #right{float:right;width:28%;margin-right:100px;margin-top:5%}
-#company{color:#333;}
+#company{color:#333; background-color: #f8f8fa;}
 #com{border-bottom:1px  inset #ddd;padding:0.75em 0 0.75em 3em;background-image:url(img/index/xiaotub2.png) ;background-repeat:no-repeat;background-position:5% center}
 .com1{padding:0.75em 1em}
 .cp{float:left;margin:1em }
@@ -37,14 +37,14 @@ h1{color:#F39;background-color:#9e9;  height: 140px; font-size:2.5em;line-height
 #contact p a:hover{background-color:#bbb}
 
 
-#contact{;margin-top:60px;}
+#contact{;margin-top:60px;background-color: #f8f8fa;}
 #contact li{list-style-type:none;padding-left:1.2em;line-height:2.6em;border-bottom:1px solid #ddd}
 .cont{padding-bottom:1em}
 
 .dt{font-size:1.2em;margin-top:0.5em}
 
 
-#foot{clear:both;text-align:center;padding:50px;border-top:1px solid #ccc;;position:relative;top:50px;background-color: #fff}
+#foot{clear:both;text-align:center;padding:50px;border-top:1px solid #ccc;;position:relative;top:50px;background-color: #fff;line-height:2em;}
 
 #img1{float:left;margin-top:20px;margin-right:2%;width:14%;height:20%}
 
